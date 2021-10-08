@@ -1,5 +1,4 @@
-![kuva](https://user-images.githubusercontent.com/56343426/136548395-abd1967b-77d6-4b5e-a40b-b5f0bc300b97.png)
-
+<img src="https://www.canva.com/design/DAEsO_DSYqw/f8oLYsvBmahA_YtjZYxr3w/view?utm_content=DAEsO_DSYqw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
 
 A recent graduated junior software developer (in spring of 2021) in the frame of sparkling joy and enthusiasm, hello! 👋
 
