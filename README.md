@@ -6,7 +6,7 @@ Shortly about how my coding path has been started, as a young secondary school s
 
 I keep studying to code as well learning all the time from the senior or advanced developers by listening and participating in the Finnish community of Mimmit koodaa (women code), which is to help giving future generations an equal opportunity to study and flourish in the IT field. The diversity is always in my heart, I love listening to what people tell about their stories and lifes.
 
-Questions popping up in your mind, providing more experiences to a junior frontend developer or just wanting to network, feel free to contact me.
+Questions popping up in your mind, providing more experiences to a junior software developer or just wanting to network, feel free to contact me.
 
   ## I've coded and explored  🦄
 
