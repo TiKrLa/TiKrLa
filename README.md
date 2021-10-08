@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAEsO_DSYqw/f8oLYsvBmahA_YtjZYxr3w/view?utm_content=DAEsO_DSYqw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+<img src="https://www.canva.com/design/DAEsO_DSYqw/f8oLYsvBmahA_YtjZYxr3w/view?utm_content=DAEsO_DSYqw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 A recent graduated junior software developer (in spring of 2021) in the frame of sparkling joy and enthusiasm, hello! 👋
 
