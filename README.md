@@ -8,15 +8,14 @@ I keep studying to code as well learning all the time from the senior or advance
 
 Questions popping up in your mind, providing more experiences to a junior software developer or just wanting to network, feel free to contact me.
 
-  ## I've coded and explored  🦄
-
-- HTML5 & CSS         
-- JavaScript / ES6
-- React 
-- Git 
-- Node.js 
+  ## Skill set 🦄
+         
+- JavaScript / ES6 
+- Git, Bitbucket, SourceTree
 - Scrum 
-- Azure DevOps 
+- Azure DevOps, Azure Boards, Azure Repos & Azure Pipelines
 - ASP.NET MVC
-- C#
+- Go (programming language
+- AWS 
+- Visual Studio Code, Visual Studio 2019 IDE
 
