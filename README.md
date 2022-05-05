@@ -9,10 +9,9 @@ Questions popping up in your mind, providing more experiences to a junior cloud 
          
 - JavaScript / ES6 
 - Git, Bitbucket, SourceTree
-- Scrum 
 - Azure DevOps, Azure Boards, Azure Repos & Azure Pipelines
 - ASP.NET MVC
-- Go (programming language
+- Go (programming language)
 - AWS 
 - Visual Studio Code, Visual Studio 2019 IDE
 
