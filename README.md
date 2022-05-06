@@ -1,4 +1,4 @@
-![wepik-202246-11415](https://user-images.githubusercontent.com/56343426/167093254-aaadbbfd-e966-452b-adae-b1e552ca3b65.png)
+![newpicture](https://user-images.githubusercontent.com/56343426/167093954-97f40432-48b7-4743-8fb7-3fd9a71954e1.png)
 
 I’m a human-oriented and keen junior cloud / software developer, hello!👋 
 I’ve gained my experience in an agile software development, full stack development and cloud deployment of a solution on Amazon Web Services (AWS). I have also experiences in the programming language of Go as well the IDE of GoLand. 👩‍💻 
