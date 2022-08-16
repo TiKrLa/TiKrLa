@@ -16,4 +16,4 @@ Questions popping up in your mind, providing more experiences to a junior cloud 
 - Go (programming language)
 - AWS (DynamoDB, SES, SNS, SQS, as well basic features; IAM, VPC, EC2 and S3)
 - Visual Studio Code, Visual Studio 2019 IDE
-
+- SQL
