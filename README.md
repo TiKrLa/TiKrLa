@@ -8,6 +8,8 @@ Questions popping up in your mind, providing more experiences to a junior cloud 
   ## Skill set 🦄
          
 - JavaScript / ES6 
+- React
+- Node.js
 - Git, Bitbucket, SourceTree
 - Azure DevOps, Azure Boards, Azure Repos & Azure Pipelines
 - ASP.NET MVC
